@@ -1,0 +1,12 @@
+/* Tooltip */
+.dijitTooltip {display: none!important;}
+.shoppingBasketTotal {text-align: right;}
+
+/* Android Devices and Chrome Passive Event Listener 
+.dj_android .mobile-footer {display: none!important}
+.dj_android .top-nav {display: none!important}
+
+.mobile .dj_chrome .mobile-footer {display: none!important}
+.mobile .dj_chrome .top-nav {display: none!important}
+
+*/
